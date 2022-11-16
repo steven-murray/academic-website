@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: ocean
   theme_night: minimal
-  font: minimal
+  font: cyberpunk
   font_size: L
 
 # SEO
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Arizona State University'
+    description: 'The professional website of Steven G. Murray'
+    twitter: 'hmfcalc'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,18 +32,19 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Steven G. Murray. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -64,11 +65,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/steven-murray/academic-website'
     content_dir: content
     branch: main
   avatar:

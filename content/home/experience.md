@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Scientist
+    company: Arizona State University
+    company_url: 'https://sese.asu.edu'
+    company_logo: org-asu
+    location: Arizona
+    date_start: '2018-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      At ASU, I work with the HERA interferometer and the EDGES global signal
+      experiment, as well as leading development of the 21cmFAST simulation package.
+      For HERA, I help lead the Validation team, designing and running some of the 
+      most sophisticated instrumental simulations in the world. For EDGES, I have 
+      developed a new robust analysis pipeline to help confirm the potential first-ever
+      detection of Cosmic Dawn.
         
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Postdoctoral Researcher
+    company: Curtin University
+    company_url: 'https://astronomy.curtin.edu.au'
+    company_logo: org-icrar
+    location: Western Australia
+    date_start: '2015-11-01'
+    date_end: '2018-09-01'
+    description: |2-
+      At ICRAR-Curtin, I worked within the EoR group, developing theoretical 
+      models in the context of the Murchison Widefield Array (MWA). I contributed to
+      models of the ionosphere, as well improving statistical models of bright 
+      foregrounds.
+    
 
 design:
   columns: '2'
