@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Codes
-subtitle: ''
+subtitle: 'Browse the different codes I have created or am heavily involved in developing.'
 
 content:
   # Page type to display. E.g. project.
