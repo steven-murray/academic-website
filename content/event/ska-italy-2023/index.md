@@ -51,16 +51,11 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/1RJrIE9zIboY-yLzyP1gg3L1yATp39kY8/view'
+url_slides: 'https://docs.google.com/presentation/d/1-IQ5b4TTgxQH4hQc-9yAbzU4jzXgMyMZ/edit?usp=sharing&ouid=113442895300168527702&rtpof=true&sd=true'
 url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
-
 # Projects (optional).
-projects: []
+projects: [
+  SKA
+]
 ---
