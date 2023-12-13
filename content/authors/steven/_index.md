@@ -10,12 +10,12 @@ last_name: Murray
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Marie Sklodowska-Curie Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Arizona State University
-    url: https://www.asu.edu
+  - name: Scuola Normale Superiore
+    url: https://sns.it
 
 # Short bio (displayed in user profile at end of posts)
 bio: Astrophysics, code, math.
@@ -47,13 +47,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/hmfcalc
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
   - icon: ads # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://ui.adsabs.harvard.edu/user/libraries/qfT0ZuGSRCWBI5sG0rl5hw
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://ui.adsabs.harvard.edu/user/libraries/qfT0ZuGSRCWBI5sG0rl5hw
   - icon: github
@@ -74,13 +71,14 @@ social:
     link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'steven.g.murray@asu.edu'
+email: 'murray.steveng@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Research Scientist in the [School of Earth and Space Exploration](https://sese.asu.edu)
-at [Arizona State University](https://asu.edu). My research interests are in 21cm cosmology,
+I am a [Marie Sklodowska-Curie (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) 
+Fellow at the [Scuola Normale Superiore (SNS)](https://sns.it) 
+in Pisa, Italy. My research interests are in 21cm cosmology,
 cosmological structure formation, Bayesian statistical analysis, and creating useful
 open-source software for scientific applications.

@@ -22,17 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Marie Sklodowska-Curie Fellow
+    company: Scuola Normale Superiore
+    company_url: 'https://sns.it'
+    company_logo: org-sns
+    location: Pisa, Italy
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+      My MSCA fellowship project is called 'FORWARD', and will focus on developing
+      Bayesian methods of understanding the full, correlated error budget of 
+      21cm experiments like HERA, EDGES and the SKA. This will focus primarily on 
+      developing models of our instruments, and propagating our uncertainties on these
+      models through to parameter inference.
+
   - title: Research Scientist
     company: Arizona State University
     company_url: 'https://sese.asu.edu'
     company_logo: org-asu
     location: Arizona
     date_start: '2018-10-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: |2-
-      At ASU, I work with the HERA interferometer and the EDGES global signal
+      At ASU, I worked with the HERA interferometer and the EDGES global signal
       experiment, as well as leading development of the 21cmFAST simulation package.
-      For HERA, I help lead the Validation team, designing and running some of the 
+      For HERA, I helped lead the Validation team, designing and running some of the 
       most sophisticated instrumental simulations in the world. For EDGES, I have 
       developed a new robust analysis pipeline to help confirm the potential first-ever
       detection of Cosmic Dawn.

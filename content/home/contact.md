@@ -26,14 +26,14 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: steven.g.murray-at-asu.edu
+  email: murray.steveng-at-gmail.com
   address:
-    street: 781 E Terrace Mall
-    city: Tempe
-    region: AZ
-    postcode: '85287'
-    country: United States
-    country_code: US
+    street: Piazze Dei Cavalieri, 7
+    city: Pisa
+    region: PI
+    postcode: '56124'
+    country: Italy
+    country_code: IT
   
 design:
   columns: '2'

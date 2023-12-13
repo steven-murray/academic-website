@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/a9bab71e-8946-423d-97b1-4c73392883c1/LOGO-ERC_negatif.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20231213%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20231213T163152Z&X-Amz-Expires=86400&X-Amz-Signature=fb1e4d3fe2bc00b3763b18b93b9cd817b28234e823675d79ab5e62e90d3b7e17&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22LOGO-ERC_negatif.svg%22&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject
