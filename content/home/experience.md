@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Marie Sklodowska-Curie Fellow
     company: Scuola Normale Superiore
-    company_url: 'https://sns.it'
+    company_url: 'https://www.sns.it'
     company_logo: org-sns
     location: Pisa, Italy
     date_start: '2023-09-01'

@@ -78,7 +78,7 @@ highlight_name: true
 ---
 
 I am a [Marie Sklodowska-Curie (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) 
-Fellow at the [Scuola Normale Superiore (SNS)](https://sns.it) 
+Fellow at the [Scuola Normale Superiore (SNS)](https://www.sns.it) 
 in Pisa, Italy. My research interests are in 21cm cosmology,
 cosmological structure formation, Bayesian statistical analysis, and creating useful
 open-source software for scientific applications.
