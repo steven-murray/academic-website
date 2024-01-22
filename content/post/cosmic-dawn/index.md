@@ -29,7 +29,7 @@ the ionization?
 
 ## The Standard Picture
 
-The standard picture (yet to be confirmed by observation) goes like this: the early 
+The standard picture goes like this: the early 
 Universe (just after “recombination”, or the Cosmic Microwave Background) had essentially
 three components: a whole bunch of dark matter (about 85% of the stuff), a lot of neutral
 Hydrogen (i.e. simple atoms with a single proton and single electron), and a tiny bit of
