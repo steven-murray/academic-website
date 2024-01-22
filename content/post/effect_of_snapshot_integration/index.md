@@ -3,6 +3,14 @@ title: Effect of Snapshot Integration
 date: '2024-01-22'
 ---
 
+I was recently wondering what the effect of snapshot integration is on the power spectrum. 
+I think I have a good handle on it now, but I wanted to write it down for posterity.
+
+The TLDR here is that if you integrate your radio interferometer for some amount of time,
+the sky rotates overhead, which decoheres the Fourier modes. My original shocking realization
+was that the 10sec of integration that HERA has corresponds to about 6.5 Mpc at $z=8$,
+which is similar to a bubble size... so I was worried. But it turns out everything is OK.
+Read on...
 
 Let the sky temperature be $T(x,y,z)$ where $(x,y)$ are comoving coordinates in the sky plane and $z$ is comoving in the LOS.
 
