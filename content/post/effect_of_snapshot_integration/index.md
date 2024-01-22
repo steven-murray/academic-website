@@ -1,6 +1,10 @@
 ---
 title: Effect of Snapshot Integration
 date: '2024-01-22'
+tags:
+    - EOR
+    - HERA
+    - FORWARD
 ---
 
 I was recently wondering what the effect of snapshot integration is on the power spectrum. 
