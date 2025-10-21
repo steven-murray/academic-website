@@ -30,11 +30,9 @@ experience:
     date_start: '2023-09-01'
     date_end: ''
     description: |2-
-      My MSCA fellowship project is called 'FORWARD', and will focus on developing
+      My MSCA fellowship project 'FORWARD' focused on developing
       Bayesian methods of understanding the full, correlated error budget of 
-      21cm experiments like HERA, EDGES and the SKA. This will focus primarily on 
-      developing models of our instruments, and propagating our uncertainties on these
-      models through to parameter inference.
+      21cm experiments like HERA, EDGES and the SKA. 
 
   - title: Research Scientist
     company: Arizona State University

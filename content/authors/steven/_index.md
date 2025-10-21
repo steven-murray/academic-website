@@ -10,15 +10,15 @@ last_name: Murray
 superuser: true
 
 # Role/position/tagline
-role: Marie Sklodowska-Curie Fellow
+role: Senior Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Scuola Normale Superiore
-    url: https://sns.it
+  - name: Stellenbosch University
+    url: https://www.sun.ac.za
 
 # Short bio (displayed in user profile at end of posts)
-bio: Astrophysics, code, math.
+bio: Astrophysics, code, math(s).
 
 # Interests to show in About widget
 interests:
@@ -62,6 +62,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3059-3823
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57214245443
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +80,7 @@ email: 'murray.steveng@gmail.com'
 highlight_name: true
 ---
 
-I am a [Marie Sklodowska-Curie (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) 
-Fellow at the [Scuola Normale Superiore (SNS)](https://www.sns.it) 
-in Pisa, Italy. My research interests are in 21cm cosmology,
+I am a Senior Lecturer at the [Stellenbosch University School of Physics](https://physics.sun.ac.za/) 
+in Stellenbosch, South Africa. My research interests are in 21cm cosmology,
 cosmological structure formation, Bayesian statistical analysis, and creating useful
 open-source software for scientific applications.
