@@ -37,22 +37,9 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/1RJrIE9zIboY-yLzyP1gg3L1yATp39kY8/view'
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+links:
+  - type: slides
+    url: 'https://drive.google.com/file/d/1RJrIE9zIboY-yLzyP1gg3L1yATp39kY8/view'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

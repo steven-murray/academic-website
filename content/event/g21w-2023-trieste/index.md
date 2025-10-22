@@ -30,10 +30,9 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_code: ''
-url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/1RJrIE9zIboY-yLzyP1gg3L1yATp39kY8/view'
-url_video: ''
+links:
+  - type: slides
+    url: 'https://drive.google.com/file/d/1RJrIE9zIboY-yLzyP1gg3L1yATp39kY8/view'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

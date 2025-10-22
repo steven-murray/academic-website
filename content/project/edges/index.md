@@ -29,20 +29,8 @@ links:
     #name: Follow
     url: https://github.com/edges-collab
   - icon: arrow-up-right-from-square
-    icon_pack: fas
-    #name: Follow
     url: https://loco.sese.asu.edu
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
 The Experiment to Detect the Global EoR Signal is a focused experiment that aims to detect the “global” signal from neutral hydrogen during the CD/EoR. It measures a single frequency spectrum averaged over the whole sky. This traces the total temperature of the intergalactic medium (IGM) as it evolves throughout cosmic time. The three distinct antennas deployed by EDGES cover redshifts between 6 — 27, or from 7.7 — 13.3 billion years ago.

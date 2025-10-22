@@ -49,10 +49,9 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_code: ''
-url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1-IQ5b4TTgxQH4hQc-9yAbzU4jzXgMyMZ/edit?usp=sharing&ouid=113442895300168527702&rtpof=true&sd=true'
-url_video: ''
+links:
+  - type: slides
+    url: 'https://docs.google.com/presentation/d/1-IQ5b4TTgxQH4hQc-9yAbzU4jzXgMyMZ/edit?usp=sharing&ouid=113442895300168527702&rtpof=true&sd=true'
 
 # Projects (optional).
 projects: [

@@ -30,13 +30,9 @@ links:
     #name: Follow
     url: https://github.com/21cmFAST
   - icon: arrow-up-right-from-square
-    icon_pack: fas
-    #name: Follow
     url: http://homepage.sns.it/mesinger/DexM___21cmFAST.html
-url_code: ''
-url_pdf: 'https://www.theoj.org/joss-papers/joss.02582/10.21105.joss.02582.pdf'
-url_slides: ''
-url_video: ''
+  - type: pdf
+    url: 'https://www.theoj.org/joss-papers/joss.02582/10.21105.joss.02582.pdf'
 ---
 
 

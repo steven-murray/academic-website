@@ -1,12 +1,15 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v0.0.0-20231109145828-d9695efa098f
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.0.0-20250925205154-e9b31f8090c0
+)
+
+require (
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.1.0 // indirect
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.1.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221106163805-45466f563a8a // indirect
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.1.0 // indirect
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0 // indirect
 )

@@ -24,8 +24,6 @@ image:
 
 links:
   - icon: arrow-up-right-from-square
-    icon_pack: fas
-    #name: Follow
     url: https://www.skao.int
 
 ---

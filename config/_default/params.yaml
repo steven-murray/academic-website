@@ -6,8 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: minimal
+  mode: dark
+  color: indigo
+
+  # theme_day: ocean
+  # theme_night: minimal
   font: cyberpunk
   font_size: L
 
@@ -17,7 +20,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Arizona State University'
+    org_name: 'Steven Murray'
     description: 'The professional website of Steven G. Murray'
     twitter: 'hmfcalc'
   analytics:
@@ -31,17 +34,17 @@ marketing:
 
 header:
   navbar:
+    blox: 'navbar'
     enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    align: right
+    fixed_to_top: true
+    logo:
+      text: ''
+      filename: 'avatar.jpg'
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: true
     
-
-# Site footer
-
 footer:
   copyright:
     notice: '© {year} Steven G. Murray. This work is licensed under {license}'

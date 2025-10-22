@@ -3,7 +3,8 @@ title: "21cmSense v2: A modular open-source 21 cm sensitivity calculator"
 authors:
 - steven
 date: "2024-05-09T00:00:00Z"
-doi: "10.21105/joss.06501"
+ids:
+  doi: "10.21105/joss.06501"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -34,14 +35,14 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.theoj.org/joss-papers/joss.06501/10.21105.joss.06501.pdf
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: site
+    url: https://21cmsense.readthedocs.io/en/latest/
+  - icon: github
+    icon_pack: fab
+    url: https://github.com/rasg-affiliates/21cmSense
+  - type: pdf
+    url: https://www.theoj.org/joss-papers/joss.06501/10.21105.joss.06501.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
