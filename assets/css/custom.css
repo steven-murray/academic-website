@@ -1,0 +1,9 @@
+    /* Example for a custom CSS file */
+    .max-w-prose { 
+      max-width: 120ch; 
+    }
+    
+    .prose {
+      max-width: 65vw;
+    }
+     
